@@ -1,3 +1,82 @@
+/*Loggan*/
+#Helsingborglogga { 
+    height: 56px;
+    width: 200px;
+    margin-left: 20px;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+/*Red banner w menu*/
+#banner {
+    background-color: lawngreen;
+}
+
+/*Bild med sökfält*/
+.sökfält {
+}
+
+/*Hitta snabbt*/
+.Hittasnabbt
+border-radius: 25px;
+border: 2px solid ;
+padding: 20px; 
+width: 200px;
+height: 150px;  
+
+#Förskola {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+  }
+
+/*Box1*/
+
+
+/*Genvägar*/
+
+
+/*Bild som bläddrar*/ 
+
+
+/*Nyheter*/
+
+
+/*Kontakta kommunen*/
+
+
+/*Chatta*/
+
+
+/*Footer*/
+#p.footer {
+    font-family: sans-serif;
+    padding-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .header {
     padding-left: 50px;
+}
+
+.header.button {
+    align-items: inherit;
+}
+
+#chatta {
+    width: 150px; 
+    height: 200px;
+    background-color: lawngreen;
 }
